@@ -4,13 +4,11 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-      time: "15:15"
-    timezone: "UTC"
+      time: "15:16"
 
 
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
-      time: "15:15"
-    timezone: "UTC"
+      time: "15:16"
