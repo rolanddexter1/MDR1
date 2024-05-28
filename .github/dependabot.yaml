@@ -5,6 +5,7 @@ updates:
     schedule:
       interval: "daily"
       time: "15:06"
+    timezone: "UTC"
 
 
   - package-ecosystem: "pip"
@@ -12,3 +13,4 @@ updates:
     schedule:
       interval: "daily"
       time: "15:06"
+    timezone: "UTC"
