@@ -4,9 +4,11 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+      time: "15:06"
 
 
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
+      time: "15:06"
